@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shrisaihospitals.co.in/sitemap.xml
